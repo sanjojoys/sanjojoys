@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sanjojoys
 - 👀 I’m interested in football, travelling, stock markets
 - 🌱 I’m currently learning python and SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data analysis, business intelligence projects, and applying machine learning to solve business challenges.
 - 📫 How to reach me sanjojoys@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
