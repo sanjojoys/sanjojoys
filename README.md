@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sanjojoys
+“Business Analytics & Data Science Student | Passionate about uncovering insights from data and solving real-world problems with analytics.”
 - 👀 I’m interested in football, travelling, stock markets
 - 🌱 I’m currently learning python and SQL
 - 💞️ I’m looking to collaborate on data analysis, business intelligence projects, and applying machine learning to solve business challenges.
