@@ -7,7 +7,7 @@ experimentation, and large-scale data analysis to consumer-marketplace problems 
 Amazon (EU/NA). MSc in Business Analytics and Data Science (IE University, Madrid).
 I like problems that need both rigorous modelling and reproducible engineering to ship.
 
-📍 Berlin, Germany &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/sanjojoy) &nbsp;·&nbsp; ✉️ sanjojoys@gmail.com
+ Berlin, Germany &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/sanjojoy) &nbsp;·&nbsp; ✉️ sanjojoys@gmail.com
 
 ---
 
